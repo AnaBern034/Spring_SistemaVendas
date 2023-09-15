@@ -1,0 +1,8 @@
+CREATE TABLE COSTUMER (
+    id_costumer INTEGER PRIMARY KEY,
+    name VARCHAR(2000) NOT NULL,
+    email VARCHAR(2000) NOT NULL,
+    cpf  VARCHAR(2000) NULL,
+   address VARCHAR(2000) NOT NULL
+
+)
