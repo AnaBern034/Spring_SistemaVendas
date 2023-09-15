@@ -1,0 +1,19 @@
+PACOTE - repository:
+Neste pacote, são definidas todas as consultas essenciais para interagir com o repositório de dados.
+
+PACOTE - entity:
+No pacote de entidades, residem todas as classes que representam os modelos de dados. Cada classe mapeia para uma tabela no banco de dados e incorpora métodos para a inserção, atualização e recuperação de dados.
+
+PACOTE - controller:
+Dentro da controller, são implementados os métodos que gerenciam as interações com a interface do usuário. Essa camada supervisiona a saída de dados dos métodos de manipulação.
+
+PACOTE - service:
+A camada de serviço é responsável por compilar e fornecer listagens abrangentes de todas as nossas entidades.
+
+PACOTE - dto:
+A minha DTO é a encarregada de elaborar os parâmetros dos métodos, estabelecendo uma ponte de comunicação eficaz com o usuário
+
+Link da gravação: https://docs.google.com/document/d/1YEfxWlT4cevX3gmqJdY5CfNR5luf9t8n3BVAe3p3K_M/edit?usp=sharing
+
+
+
